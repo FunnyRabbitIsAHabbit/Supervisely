@@ -15,5 +15,7 @@ are same as in the original image.
 
 [This particular Stackoverflow answer](https://stackoverflow.com/questions/61051120/sliding-window-on-a-python-image) helped divise my approach.
 
-Scripts [split.py](split.py) and [merge.py](split.py) solve the challenge 100%.
+Scripts [split.py](split.py) and [merge.py](merge.py) solve the challenge 100%.
 File [Unknown.jpg](Unknown.jpg) has been tested as input and [new.jpg](new.jpg) is the output.
+
+Package [Slidingwindow](https://github.com/adamrehn/slidingwindow) would be an overkill, IMO.
